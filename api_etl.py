@@ -2,16 +2,17 @@ import logging
 import requests
 import pandas as pd
 from sqlalchemy import create_engine
-from decouple import config
+from config import *
+
 
 
 #CONFIGS
 DATABASE_CONFIG = {
-    'user': config('DB_USER'),
-    'password': config('DB_PASSWORD'),
-    'host': config('DB_HOST'),
-    'port': config('DB_PORT'),
-    'database': config('DB_NAME')
+    'user': DB_USER,
+    'password': DB_PASS,
+    'host': DB_HOST,
+    'port': DB_PORT,
+    'database': DB_NAME
 }
 API_CONFIG = {
     'url': 'https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries',
