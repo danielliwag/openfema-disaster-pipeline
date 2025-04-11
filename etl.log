@@ -1,0 +1,50 @@
+2025-04-09 15:19:16,370 - INFO - Starting data ingestion.
+2025-04-09 15:19:19,677 - INFO - Fetched 10000 records.
+2025-04-09 15:19:22,012 - INFO - Fetched 10000 records.
+2025-04-09 15:19:24,595 - INFO - Fetched 10000 records.
+2025-04-09 15:19:27,592 - INFO - Fetched 10000 records.
+2025-04-09 15:19:30,354 - INFO - Fetched 10000 records.
+2025-04-09 15:19:33,042 - INFO - Fetched 10000 records.
+2025-04-09 15:19:35,043 - INFO - Fetched 7918 records.
+2025-04-09 15:19:35,690 - INFO - Total records fetched: 67918.
+2025-04-09 15:19:35,981 - INFO - Starting data transformation.
+2025-04-09 15:19:36,101 - INFO - Loading data into the database.
+2025-04-09 15:19:43,195 - INFO - Successfully loaded 67918 rows into the database.
+2025-04-09 15:22:30,728 - INFO - Starting data ingestion.
+2025-04-09 15:22:34,388 - INFO - Fetched 10000 records.
+2025-04-09 15:22:37,914 - INFO - Fetched 10000 records.
+2025-04-09 15:22:41,319 - INFO - Fetched 10000 records.
+2025-04-09 15:22:44,247 - INFO - Fetched 10000 records.
+2025-04-09 15:22:46,954 - INFO - Fetched 10000 records.
+2025-04-09 15:22:49,552 - INFO - Fetched 10000 records.
+2025-04-09 15:22:51,850 - INFO - Fetched 7918 records.
+2025-04-09 15:22:52,348 - INFO - Total records fetched: 67918.
+2025-04-09 15:22:52,648 - INFO - Starting data transformation.
+2025-04-09 15:22:52,763 - INFO - Loading data into the database.
+2025-04-09 15:22:59,970 - INFO - Successfully loaded 67918 rows into the database.
+2025-04-09 15:26:22,503 - INFO - Starting data ingestion.
+2025-04-09 15:26:26,937 - INFO - Fetched 10000 records.
+2025-04-09 15:26:30,243 - INFO - Fetched 10000 records.
+2025-04-09 15:26:33,032 - INFO - Fetched 10000 records.
+2025-04-09 15:26:35,704 - INFO - Fetched 10000 records.
+2025-04-09 15:26:38,317 - INFO - Fetched 10000 records.
+2025-04-09 15:26:40,980 - INFO - Fetched 10000 records.
+2025-04-09 15:26:43,399 - INFO - Fetched 7918 records.
+2025-04-09 15:26:44,034 - INFO - Total records fetched: 67918.
+2025-04-09 15:26:44,333 - INFO - Starting data transformation.
+2025-04-09 15:26:44,465 - INFO - Loading data into the database.
+2025-04-09 15:26:51,505 - INFO - Successfully loaded 67918 rows into the database.
+2025-04-09 15:46:12,088 - INFO - Starting the ETL process.
+2025-04-09 15:46:12,088 - INFO - Starting data ingestion.
+2025-04-09 15:46:15,609 - INFO - Fetched 10000 records.
+2025-04-09 15:46:18,170 - INFO - Fetched 10000 records.
+2025-04-09 15:46:21,290 - INFO - Fetched 10000 records.
+2025-04-09 15:46:23,842 - INFO - Fetched 10000 records.
+2025-04-09 15:46:26,359 - INFO - Fetched 10000 records.
+2025-04-09 15:46:29,559 - INFO - Fetched 10000 records.
+2025-04-09 15:46:31,643 - INFO - Fetched 7918 records.
+2025-04-09 15:46:32,635 - INFO - Total records fetched: 67918.
+2025-04-09 15:46:32,920 - INFO - Starting data transformation.
+2025-04-09 15:46:33,036 - INFO - Loading data into the database.
+2025-04-09 15:46:40,009 - INFO - Successfully loaded 67918 rows into the database.
+2025-04-09 15:46:40,009 - INFO - ETL process completed successfully.
